@@ -1,0 +1,40 @@
+﻿public enum PageName
+{
+    BBCTestSite,
+    NewsPage,
+    SearchResultsPage,
+    LoremIpsumPage,
+    HaveYourSayPage
+}
+public enum Element
+{
+    SignInLink,
+    NewsLink,
+    FirstArticleLink,
+    SecondArticleLink,
+    ThirdArticleLink,
+    FourthArticleLink,
+    FifthArticleLink,
+    SixthArticleLink,
+    FirstArticleCategoryLink,
+    Search_input,
+    Search_button,
+    FirstSearchedArticleLink,
+    AmountInputField,
+    BytesRadioButton,
+    GenerateLoremIpsumButton,
+    LipsumText,
+    More_theSecondLink,
+    HaveYourSay_link,
+    TopStory_link,
+    DoYouHaveAquestionForBBCnews_link,
+    WhatQuestionsWouldYouLikeUsToInvestigate_textarea,
+    Name_input,
+    EmailAddress_input,
+    Age_input,
+    Postcode_input,
+    SignMeUpForBBCNewsDaily_checkbox,
+    Submit_button,
+    Name_label,
+    EmailAddress_label
+}
